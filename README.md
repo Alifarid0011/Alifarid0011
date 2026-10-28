@@ -12,6 +12,8 @@ CSV/XLSX I/O. Includes a browser playground powered by the same Go engine throug
 WebAssembly, executable examples, and reproducible allocation benchmarks.
 
 [Code & documentation](https://github.com/Alifarid0011/sheetframe) ·
+[Live playground](https://alifarid0011.github.io/sheetframe/) ·
+[v0.1.0](https://github.com/Alifarid0011/sheetframe/releases/tag/v0.1.0) ·
 [Benchmark methodology](https://github.com/Alifarid0011/sheetframe/blob/main/docs/BENCHMARKS.md)
 
 ### [go-contributor](https://github.com/Alifarid0011/go-contributor-skill)
