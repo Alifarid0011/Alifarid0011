@@ -1,0 +1,35 @@
+# alifarid
+
+Go developer focused on practical data tooling and backend correctness.
+
+## Selected work
+
+### [sheetframe](https://github.com/Alifarid0011/sheetframe)
+
+An Excel-first DataFrame library for Go: typed nullable tables, immutable
+operations, filtering, stable sorting, grouped aggregation, hash joins, and
+CSV/XLSX I/O. Includes a browser playground powered by the same Go engine through
+WebAssembly, executable examples, and reproducible allocation benchmarks.
+
+[Code & documentation](https://github.com/Alifarid0011/sheetframe) ·
+[Benchmark methodology](https://github.com/Alifarid0011/sheetframe/blob/main/docs/BENCHMARKS.md)
+
+### [go-contributor](https://github.com/Alifarid0011/go-contributor-skill)
+
+A reusable Codex skill for finding useful Go contributions, reproducing bugs,
+checking overlapping work, and preparing tested, clearly documented pull requests.
+
+## Open-source work
+
+- [Zerolog: escape custom time layouts](https://github.com/rs/zerolog/pull/828)
+  — proposed a JSON encoding fix covering scalar and slice timestamps, with
+  regression tests and allocation benchmarks.
+
+[All public pull requests](https://github.com/pulls?q=is%3Apr+author%3AAlifarid0011)
+
+## Engineering focus
+
+- Explicit APIs and predictable error handling
+- Regression tests, race checks, and immutable data ownership
+- Measured performance with documented tradeoffs
+- Small, reviewable changes and useful documentation
