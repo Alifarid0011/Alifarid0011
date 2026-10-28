@@ -29,6 +29,12 @@ checking overlapping work, and preparing tested, clearly documented pull request
 
 ## Open-source work
 
+- [Go x/net/http2: preserve large server concurrency limits](https://github.com/golang/net/pull/275)
+  — proposed a wrapper compatibility fix, verified on amd64 and 386 with
+  legacy and race-test coverage.
+- [Excelize: correct early-1900 date conversion](https://github.com/qax-os/excelize/pull/2467)
+  — proposed a calendar-boundary fix that preserves the 1904 date system and
+  Excel's historical WEEKDAY behavior.
 - [Zerolog: escape custom time layouts](https://github.com/rs/zerolog/pull/828)
   — proposed a JSON encoding fix covering scalar and slice timestamps, with
   regression tests and allocation benchmarks.
