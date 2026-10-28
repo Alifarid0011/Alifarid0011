@@ -26,6 +26,9 @@ checking overlapping work, and preparing tested, clearly documented pull request
 - [Zerolog: escape custom time layouts](https://github.com/rs/zerolog/pull/828)
   — proposed a JSON encoding fix covering scalar and slice timestamps, with
   regression tests and allocation benchmarks.
+- [Fiber: preserve error and redirect statuses in freshness checks](https://github.com/gofiber/fiber/pull/4811)
+  — draft fix with conditional-request regressions and a complete passing
+  audit, generation, lint, and race-test validation run.
 
 [All public pull requests](https://github.com/pulls?q=is%3Apr+author%3AAlifarid0011)
 
