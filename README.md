@@ -9,11 +9,11 @@ Go developer focused on practical data tooling and backend correctness.
 An Excel-first DataFrame library for Go: typed nullable tables, immutable
 operations, filtering, stable sorting, grouped aggregation, hash joins, and
 CSV/XLSX I/O. Includes a browser playground powered by the same Go engine through
-WebAssembly, executable examples, and reproducible allocation benchmarks.
+WebAssembly, executable examples, and reproducible pandas/Polars/QFrame comparisons.
 
 [Code & documentation](https://github.com/Alifarid0011/sheetframe) ·
 [Live playground](https://alifarid0011.github.io/sheetframe/) ·
-[v0.1.0](https://github.com/Alifarid0011/sheetframe/releases/tag/v0.1.0) ·
+[v0.2.0](https://github.com/Alifarid0011/sheetframe/releases/tag/v0.2.0) ·
 [Benchmark methodology](https://github.com/Alifarid0011/sheetframe/blob/main/docs/BENCHMARKS.md)
 
 ### [go-contributor](https://github.com/Alifarid0011/go-contributor-skill)
