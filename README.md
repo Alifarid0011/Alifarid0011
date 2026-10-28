@@ -16,6 +16,12 @@ WebAssembly, executable examples, and reproducible pandas/Polars/QFrame comparis
 [v0.2.0](https://github.com/Alifarid0011/sheetframe/releases/tag/v0.2.0) ·
 [Benchmark methodology](https://github.com/Alifarid0011/sheetframe/blob/main/docs/BENCHMARKS.md)
 
+### [Design patterns in Go](https://github.com/Alifarid0011/design_patterns)
+
+A catalog of the 23 classic design patterns with Go implementations, behavior
+tests, executable examples, and a guide to their tradeoffs and simpler alternatives.
+Includes offline HTTP tests, explicit writer ownership, and concurrency checks.
+
 ### [go-contributor](https://github.com/Alifarid0011/go-contributor-skill)
 
 A reusable Codex skill for finding useful Go contributions, reproducing bugs,
