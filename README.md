@@ -83,7 +83,7 @@ and when interfaces, composition, or functions are enough.
 | [go-playground/form #89](https://github.com/go-playground/form/pull/89) | Reject slice indices that overflow the required length. |
 
 _Status checked on November 1, 2026. Each PR links to its current status._
-[All upstream pull requests](https://github.com/pulls?q=is%3Apr+author%3AAlifarid0011+archived%3Afalse+-user%3AAlifarid0011)
+[All upstream pull requests](https://github.com/search?q=is%3Apr+author%3AAlifarid0011+-user%3AAlifarid0011&type=pullrequests)
 
 ## Engineering evidence
 
